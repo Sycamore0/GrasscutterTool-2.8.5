@@ -1,0 +1,224 @@
+﻿28010101: Golden Crab
+28010102: Sun Crab
+28010103: Ocean Crab
+28010104: General Crab
+28010105: Pale Red Crab
+28010106: Crab
+28010201: Blue Horned Lizard
+28010202: Red Horned Lizard
+28010203: Green Horned Lizard
+28010204: Sunset Loach
+28010205: Golden Loach
+28010206: Sunny Loach
+28010207: Pith Lizard
+28010301: Frog
+28010302: Mud Frog
+28010303: Blue Frog
+28010401: Adorned Unagi
+28010402: Deep Sea Unagi
+28010403: Red-Finned Unagi
+28020101: Snow Fox
+28020102: Crimson Fox
+28020103: Gifting Snow Fox
+28020104: Super-Gifting Snow Fox
+28020105: Snow Fox
+28020106: Crimson Fox
+28020201: Squirrel
+28020301: Forest Boar
+28020302: Forest Piglet
+28020303: Snowboar
+28020304: Great Snowboar King
+28020305: Frozen Snowboar
+28020306: Snowboar
+28020307: Forest Boar
+28020308: Frozen Snowboar
+28020309: Great Snowboar King
+28020401: Northland Hound
+28020402: Forest-Patrol Hound
+28020403: Shiba
+28020404: Black-Back Hound
+28020405: Shiba
+28020406: Northland Hound
+28020407: Northland Hound
+28020408: Forest-Patrol Hound
+28020409: Shiba
+28020410: Black-Back Hound
+28020501: Sapphire
+28020502: Jade-Eyed Cat
+28020503: Gray Snow Cat
+28020504: Northland Cat
+28020505: Tiger-Striped Cat
+28020506: Sheriff Cat
+28020507: Black Cat
+28020508: Sapphire
+28020509: Gray Snow Cat
+28020510: Jade-Eyed Cat
+28020511: Gray Snow Cat
+28020512: Northland Cat
+28020513: Tiger-Striped Cat
+28020601: Snow Weasel
+28020602: Red-Tailed Weasel
+28020603: Boot Weasel
+28020604: Masked Weasel
+28020605: Bluethunder Weasel
+28020701: Kitsune
+28020702: Kitsune
+28020801: Bake-Danuki
+28020802: Master Yoshimoto (test)
+28020803: Bake-Danuki
+28020901: Samurai Dog Diversion (test)
+28020902: Samurai dog boss (test)
+28030101: Azure Crane
+28030102: Violet Ibis
+28030201: Brownwing Falcon
+28030202: Umbertail Falcon
+28030203: Lapis Glede
+28030204: Silkwhite Falcon
+28030301: White Pigeon
+28030302: Brightcrown Pigeon
+28030303: Graywing Pigeon
+28030304: Crimsonflank Pigeon
+28030305: Black King Pigeon
+28030306: Crow
+28030307: White Pigeon
+28030308: Brightcrown Pigeon
+28030309: Graywing Pigeon
+28030310: Crimsonflank Pigeon
+28030311: Black King Pigeon
+28030401: Crimson Finch
+28030402: Golden Finch
+28030403: Snow Finch
+28030404: Emerald Finch
+28030405: Golden Finch
+28030406: Crimson Finch
+28030407: Golden Finch
+28030408: Snow Finch
+28030409: Emerald Finch
+28030501: Scarletbeak Duck
+28030502: Emerald Duck
+28030503: Golden Duck
+28030504: Scarletbeak Duck
+28040101: Black-Back Bass
+28040102: Blue-Fin Bass
+28040103: Golden Bass
+28040104: Black-Back Bass
+28040105: Black-Back Bass
+28040106: Blue-Fin Bass
+28040107: Golden Bass
+28040108: Black-Back Bass
+28040201: Medaka
+28040202: Glaze Medaka
+28040203: Sweet-Flower Medaka
+28040204: Aizen Medaka
+28040205: Dawncatcher
+28040206: Crystalfish
+28040301: Lunged Stickleback
+28040302: Betta
+28040303: Venomspine Fish
+28040304: Akai Maou
+28040305: Snowstrider
+28040401: Golden Koi
+28040402: Rusty Koi
+28040501: Brown Shirakodai
+28040502: Purple Shirakodai
+28040503: Tea-Colored Shirakodai
+28040504: Abiding Angelfish
+28040505: Raimei Angelfish
+28040506: Moonfin
+28040601: Pufferfish
+28040602: Bitter Pufferfish
+28040701: Divda Ray
+28040702: Formalo Ray
+28040703: Floating Ray
+28050101: Anemo Crystalfly
+28050102: Geo Crystalfly
+28050103: Cryo Crystalfly
+28050104: Electro Crystalfly
+28050105: Coral Butterfly
+28050201: Amateur Weasel Thief
+28050202: Hoarder Weasel Thief
+28050203: Golden Weasel Thief
+28050211: Amateur Weasel Thief
+28050212: Hoarder Weasel Thief
+28050213: Golden Weasel Thief
+28050301: Lucklight Fly
+28210101: Golden Crab
+28210102: Sun Crab
+28210103: Ocean Crab
+28210104: General Crab
+28210105: Pale Red Crab
+28210201: Blue Horned Lizard
+28210202: Red Horned Lizard
+28210203: Green Horned Lizard
+28210204: Sunset Loach
+28210205: Golden Loach
+28210206: Sunny Loach
+28210207: Marrow Lizard
+28210301: Frog
+28210302: Mud Frog
+28210303: Blue Frog
+28210401: Adorned Unagi
+28210402: Deep Sea Unagi
+28210403: Red-Finned Unagi
+28220101: Snow Fox
+28220102: Crimson Fox
+28220201: Squirrel
+28220301: Forest Boar
+28220303: Snowboar
+28220401: Northland Hound
+28220402: Forest-Patrol Hound
+28220403: Shiba
+28220404: Black-Back Hound
+28220501: Sapphire
+28220502: Jade-Eyed Cat
+28220503: Gray Snow Cat
+28220504: Northland Cat
+28220505: Tiger-Striped Cat
+28220506: Sheriff Cat
+28220601: Snow Weasel
+28220602: Red-Tailed Weasel
+28220603: Boot Weasel
+28220605: Bluethunder Weasel
+28220701: Kitsune
+28220901: Samurai dog (test)
+28230101: Azure Crane
+28230102: Violet Ibis
+28230301: White Pigeon
+28230302: Brightcrown Pigeon
+28230303: Graywing Pigeon
+28230304: Crimsonflank Pigeon
+28230305: Black King Pigeon
+28230306: Crow
+28230401: Crimson Finch
+28230402: Golden Finch
+28230403: Snow Finch
+28230404: Emerald Finch
+28240201: Medaka
+28240202: Glaze Medaka
+28240203: Sweet-Flower Medaka
+28240204: Aizen Medaka
+28240205: Dawncatcher
+28240206: Crystalfish
+28240301: Lunged Stickleback
+28240302: Betta
+28240303: Venomspine Fish
+28240304: Akai Maou
+28240305: Snowstrider
+28240401: Golden Koi
+28240402: Rusty Koi
+28240501: Brown Shirakodai
+28240502: Purple Shirakodai
+28240503: Tea-Colored Shirakodai
+28240504: Abiding Angelfish
+28240505: Raimei Angelfish
+28240506: Moonfin
+28240601: Pufferfish
+28240602: Bitter Pufferfish
+28240701: Divda Ray
+28240702: Formalo Ray
+28250101: Anemo Crystalfly
+28250102: Geo Crystalfly
+28250103: Cryo Crystalfly
+28250104: Electro Crystalfly
+28250105: Coral Butterfly
+28250301: Lucklight Fly
