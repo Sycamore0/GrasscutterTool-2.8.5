@@ -38,6 +38,15 @@ Fork from https://github.com/jie65535/GrasscutterCommandGenerator
 ![image](https://user-images.githubusercontent.com/64587684/183325377-33078e98-7d49-442d-a193-e14fe911e7b6.png)
 ![image](https://user-images.githubusercontent.com/64587684/183325396-306c3728-cfe1-4da9-96cd-29255f4297e2.png)
 
+# Credit
+WindSeedClientNotify#7094
+
+umaru#6658
+
+Sakura616#0807
+
+庫卡🅺🅾🅺🅰#8595
+
 # 更新日志
 ## 20220808
  - 添加3.0家园摆设
