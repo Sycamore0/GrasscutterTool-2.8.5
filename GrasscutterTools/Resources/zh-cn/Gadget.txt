@@ -2004,10 +2004,10 @@
 40000161: Double_ArrowAiming_WithoutFire
 40000172: Frost_Orb
 40000173: Frost_Orb_Bullet
-40000174: JumpDrug_Whitbox_01
-40000175: JumpDrug_Whitbox_02
-40000176: JumpDrug_Whitbox_03
-40000177: JumpDrug_Whitbox_04
+40000174: 蹦蹦炸弹01
+40000175: 蹦蹦炸弹02
+40000176: 蹦蹦炸弹03
+40000177: 无效果
 40000178: EmptyGadget
 40000179: AmborFlyBullet
 40010000: 测试用子弹
@@ -2049,11 +2049,11 @@
 40200020: AirflowFieldBlue
 40210006: 龙卷风发射器
 40210007: 强风无效区域
-41002001: FrozenWindmill
+41002001: 神里大招的大漩涡 出去一直存在 有打击 无伤害
 41002002: IceSpine_Large
 41002003: Frozen_Butterfly_Area
 41002004: Frozen_Butterfly_Area_Material
-41002005: FrozenWindmill_Sub
+41002005: 神里大招的小漩涡 出去一直存在 有打击 无伤害
 41002006: Ayaka_ExtraAttack
 41002007: Ayaka_NormalAttack_05
 41002008: Ayaka_YayoiKaeshi
@@ -2068,7 +2068,7 @@
 41005007: PlayerBoy_ExtraAttack_Wave
 41005008: Hogyoku_Bullet
 41005009: Hogyoku_Barrier_EndBoom
-41006001: FrozenWindmill
+41006001: 神里大招的大漩涡 出去一直存在 有打击 有伤害
 41006002: LightningBolt
 41006003: LightningSpear
 41006004: LightningSpear_1
@@ -2080,27 +2080,27 @@
 41006010: Lisa_Attack01
 41006011: Lisa_Attack02
 41006012: Lisa_Attack03
-41006013: PierceLightning_Ball
+41006013: 丽莎大招 只能打几下 燈籠不消失
 41006020: Lisa_ExtraAttack
 41006027: PierceLightning_Ball_Bullet
 41014001: Barbara_Attack01
 41014002: Barbara_Attack02
 41014003: Barbara_Attack03
-41014004: Barbara_WetShiled
-41014005: Eff_WetShiled
+41014004: 芭芭拉水环
+41014005: 芭芭拉水环 水环消失还带打湿效果
 41014006: Barbara_Team_WaterBall
 41014007: Barbara_Team_FirstAid
 41015001: FrozenTrap
 41015002: FrozenTrap_GW
 41016001: Diluc_FireCross
 41021001: ArrowRainField
-41021002: Dummy
-41021003: Dummy_Throw
-41021004: Dummy_Throw_7M
-41021005: Dummy_Throw_4M
-41021006: Dummy_Throw_Short
-41021007: Double_ArrowAiming
-41021008: Dummy_ElementBall
+41021002: 兔兔伯爵
+41021003: 兔兔伯爵(扔出来)
+41021004: 兔兔伯爵(扔出来)7M
+41021005: 兔兔伯爵(扔出来)4M
+41021006: 兔兔伯爵(扔出来一直滚)
+41021007: 安柏弓重击火花
+41021008: 安柏弓重击带击退
 41021009: Ambor_Arrow_01
 41021010: Ambor_Arrow_02
 41021011: Ambor_Arrow_03
@@ -2116,8 +2116,8 @@
 41021055: Dummy_Throw_Temp_8M
 41021056: Dummy_Throw_Temp_9M
 41021057: Dummy_Throw_Temp_10M
-41022001: Hurricane_Arrow
-41022002: Venti_WindBlade
+41022001: 温迪大招
+41022002: 温迪外按E技能带风伤 没风场
 41022003: Venti_WindBlade_Land
 41022004: AimingArrow_Wind
 41022005: AimingArrow_WithoutWind
@@ -2129,7 +2129,7 @@
 41022011: Venti_Arrow_04
 41022012: Venti_Arrow_05
 41022013: Venti_Arrow_06
-41022014: Venti_WindField
+41022014: 温迪久按E的风场 持续存在
 41022016: Diona_AimingArrow_Wind
 41022017: Diona_AimingArrow_WithoutWind
 41022018: Diona_Attack_Dummy
