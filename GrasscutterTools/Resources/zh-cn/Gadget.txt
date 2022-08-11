@@ -2,24 +2,8 @@
 2: credit：umaru#6658
 3: credit：Sakura616#0807
 4: credit：庫卡🅺🅾🅺🅰#8595
-70310180: 上帝视角{跑出一定范围后失效}
-70350278: 进入boos领域的视角变化
-42901068: 视角锁定{慎用 无法消除}
-42902007: 某种特殊视角{疾跑可消除}
-42905002: 某种特殊视角{自动消除}
-70310303: 视角锁定2D
-70360290: 在屏幕中显示录像框{空中录像}
-90000001: 真·视角锁定
-70290325: 照相点
-70700004: 风龙废墟天气
 70290541: 一大片湖{跟调水位差不多}
-40210006: 龙卷风{过会会形成}
-70310225: 大湖{人物所站位置不会有水}
 70710736: 一块石头
-70110001: 七天神像【风】
-70110004: 七天神像【岩】
-70110006: 七天神像【雷】
-70110007: 七天神像【草】
 70290044: 天空岛大钉子
 70290034: 天空钉碎片
 70290035: 天空钉碎片
@@ -31,26 +15,6 @@
 70290041: 天空钉顶部碎块
 70290042: 天空钉碎片
 70290043: 天空钉碎片
-70900049: 水元素方碑
-70900050: 草元素方碑
-70900051: 岩元素方碑
-70900055: 火元素方碑
-70900056: 雷元素方碑
-70900057: 冰元素方碑
-70900058: 风元素方碑
-70590004: 风神瞳
-70590021: 岩神瞳
-70590041: 雷神瞳
-70590063: 草神瞳
-70590057: 流明晶石
-70590042: 逐月符
-70590031: 绯红玉髓
-70590049: 键纹
-70590050: 键纹1
-70590051: 键纹2
-70590052: 键纹3
-70590053: 键纹4
-70590012: 原石？
 70800216: 层岩活动的一个点 小地图显示
 70900203: 任务标点{这东西能测距}
 70300057: 任务标点
@@ -58,7 +22,6 @@
 70110002: 未解锁的传送锚点
 70370273: 浪船锚点
 70110003: 传送洞口
-70110008: 倒立的传送锚点
 77215022: 尘歌壶的传送点
 70500004: 口袋锚点
 70120009: 雷神副本传送门
@@ -74,8 +37,6 @@
 70350317: 鹤观羽毛{小地图显示}
 70800028: 观景点
 70710383: 若陀龙王封印
-45001001: 浪船
-45001002: 游击艇{浪船}
 70710743: 无法互动的浪船{一锤就炸}
 71700390: 非常小的一艘船{无法互动}
 70380240: 金币
@@ -469,7 +430,6 @@
 70290032: 忍冬之树{只能互动}
 70290100: 稻妻那种雷树桩
 70290101: 一样
-70290325: 拍照点？
 70290366: 层岩蘑菇{充能互动}
 70360323: 鹤观栖木
 70360300: 枯萎的栖木
@@ -1469,7 +1429,6 @@
 70310177: 没东西
 70310178: 水晶球?
 70310179: 光球 无作用 无法消除
-70310180: 区域强制转换镜头 无法消除
 70310181: 没东西
 70310182: 没东西
 70310183: 没东西
@@ -1489,198 +1448,6 @@
 70310197: 漂浮的石杯 无法消除 无作用
 70310198: 枯木绿光核心 无法消除 无作用
 70310199: 枯木绿光音符环绕 无法消除 无作用
---------:-书籍------------
-71700002: 少女薇拉的忧郁·卷一
-71700003: 少女薇拉的忧郁·卷二
-71700004: 少女薇拉的忧郁·卷三
-71700159: 少女薇拉的忧郁·卷四
-71700019: 少女薇拉的忧郁·卷五
-71700160: 少女薇拉的忧郁·卷六
-71700161: 少女薇拉的忧郁·卷七
-71700162: 少女薇拉的忧郁·卷八
-71700020: 少女薇拉的忧郁·卷九
-71700021: 少女薇拉的忧郁·卷十
-71700005: 与神性同行·序言
-71700006: 温妮莎传奇·上篇
-71700007: 温妮莎传奇·下篇
-71700009: 蒲公英海的狐狸·卷一
-71700010: 蒲公英海的狐狸·卷二
-71700011: 蒲公英海的狐狸·卷三
-71700155: 蒲公英海的狐狸·卷四
-71700012: 蒲公英海的狐狸·卷五
-71700013: 蒲公英海的狐狸·卷六
-71700014: 蒲公英海的狐狸·卷七
-71700156: 蒲公英海的狐狸·卷八
-71700157: 蒲公英海的狐狸·卷九
-71700015: 蒲公英海的狐狸·卷十
-71700016: 蒲公英海的狐狸·卷十一
-71700017: 丘丘人诗歌选·上卷
-71700018: 丘丘人诗歌选·下卷
-71700022: 林间风·故事拔莘节选
-71700030: 林间风拾遗·龙之书
-71700023: 野猪公主·卷一
-71700024: 野猪公主·卷二
-71700025: 野猪公主·卷三
-71700026: 野猪公主·卷四
-71700027: 野猪公主·卷五
-71700158: 野猪公主·卷六
-71700028: 野猪公主·卷七
-71700029: 蒙德高塔·第一卷
-71700031: 白之公主与六侏儒·卷一
-71700032: 白之公主与六侏儒·卷二
-71700033: 白之公主与六侏儒·卷三
-71700034: 白之公主与六侏儒·卷四
-71700035: 白之公主与六侏儒·卷五
-71700036: 白之公主与六侏儒·卷六
-71700037: 白之公主与六侏儒·卷七
-71700038: 千年孤独
-71700039: 提瓦特游览指南
-71700040: 风，勇气和翅膀
-71700042: 冒险家罗尔德的日记·轻策山庄
-71700043: 冒险家罗尔德的日记·绿华池
-71700044: 冒险家罗尔德的日记·瑶光滩
-71700054: 冒险家罗尔德的日记·孤云阁
-71700055: 冒险家罗尔德的日记·地中之盐
-71700056: 冒险家罗尔德的日记·绝云间·庆云顶
-71700057: 冒险家罗尔德的日记·绝云间·奥藏天池
-71700088: 冒险家罗尔德的日记·青墟浦
-71700180: 冒险家罗尔德的日记·龙脊雪山
-71700281: 冒险家罗尔德的日记·离岛
-71700328: 冒险家罗尔德的日记·鹤观
-71700045: 飞行指南
-71700046: 可莉的本子
-71700048: 给东东的信
-71700049: 谁人的日记·其一·瑶光滩
-71700050: 谁人的日记·其二·归离原
-71700051: 谁人的日记·其三·绝云间
-71700052: 谁人的日记·其四·璃月港
-71700282: 谁人的日记·其五·刃连岛
-71700058: 绝云记闻·石兽
-71700059: 绝云记闻·海神宫
-71700167: 绝云记闻·无妄
-71700168: 绝云记闻·山灵
-71700185: 绝云记闻·麒麟
-71700186: 绝云记闻·玉遁
-71700060: 玑衡经
-71700061: 侠客记·山馊篇
-71700187: 侠客记·黑貂
-71700188: 侠客记·留尘
-71700062: 璃月风土志·绣球
-71700166: 璃月风土志·迎神
-71700170: 璃月风土志·霓裳花
-71700171: 璃月风土志·琉璃百合
-71700063: 石书辑录·卷一
-71700064: 天衡绝倒集
-71700065: 丘丘人习俗考察·卷一
-71700066: 丘丘人习俗考察·卷二
-71700163: 丘丘人习俗考察·卷三
-71700067: 丘丘人习俗考察·卷四
-71700068: 列王与宗室史·序
-71700069: 古恩西尔德小传
-71700070: 侍从骑士之歌·上篇
-71700071: 侍从骑士之歌·下篇
-71700072: 提瓦特野外救急食谱
-71700073: 给盗宝团的信
-71700074: 护法仙众夜叉录
-71700078: 神霄折戟录·第一卷
-71700079: 神霄折戟录·第二卷
-71700080: 神霄折戟录·第三卷
-71700081: 神霄折戟录·第四卷
-71700082: 神霄折戟录·第五卷
-71700084: 碎梦奇珍·月光
-71700085: 碎梦奇珍·琉璃
-71700086: 碎梦奇珍·蓝宝石
-71700087: 碎梦奇珍·石心
-71700089: 旅行者的笔记
-71700090: 旅行者的笔记
-71700091: 旅行者的笔记
-71700092: 旅行者的笔记
-71700110: 清泉之心·一
-71700111: 清泉之心·二
-71700112: 清泉之心·三
-71700113: 清泉之心·四
-71700114: 霖铃精选诗集
-71700115: 丘丘语诗歌试作·朗诵诗
-71700116: 丘丘语诗歌试作·叙事诗
-71700117: 丘丘语诗歌试作·抒情诗
-71700120: 梵米尔的钙化池画作·其一
-71700121: 梵米尔的钙化池画作·其二
-71700122: 梵米尔的钙化池画作·其三
-71700124: 骑士团指导手册·第五版
-71700125: 浮浪记·潮起
-71700126: 浮浪记·狂涛
-71700127: 浮浪记·潮息
-71700128: 犬又二分之一·一
-71700129: 犬又二分之一·二
-71700130: 犬又二分之一·三
-71700131: 犬又二分之一·四
-71700132: 犬又二分之一·五
-71700189: 犬又二分之一·六
-71700190: 犬又二分之一·七
-71700191: 犬又二分之一·八
-71700203: 犬又二分之一·九
-71700204: 犬又二分之一·十
-71700205: 犬又二分之一·十一
-71700133: 竹林月夜·一
-71700134: 竹林月夜·二
-71700135: 竹林月夜·三
-71700136: 竹林月夜·四
-71700137: 醉客轶事·一
-71700138: 醉客轶事·二
-71700139: 醉客轶事·三
-71700140: 醉客轶事·四
-71700141: 帝君尘游记·一
-71700142: 帝君尘游记·二
-71700143: 帝君尘游记·三
-71700144: 帝君尘游记·四
-71700145: 荒山孤剑录·一
-71700146: 荒山孤剑录·二
-71700147: 荒山孤剑录·三
-71700148: 荒山孤剑录·四
-71700164: 百货名鉴纵览
-71700165: 山与海之书
-71700169: 珠玑宝矿
-71700172: 连心珠·卷一
-71700173: 连心珠·卷二
-71700174: 连心珠·卷三
-71700206: 连心珠·卷四
-71700207: 连心珠·卷五
-71700175: 古老的考察日志·其之一
-71700176: 古老的考察日志·其之二
-71700177: 古老的考察日志·其之三
-71700178: 感谢信
-71700208: 丘丘语速查手册
-71700264: 新六狐传·序
-71700265: 新六狐传·一
-71700266: 新六狐传·二
-71700267: 新六狐传·三
-71700268: 新六狐传·四
-71700269: 珊瑚宫记
-71700270: 哈玛瓦兰战记·前言
-71700271: 哈玛瓦兰战记·一
-71700272: 哈玛瓦兰战记·二
-71700273: 沉秋拾剑录·一
-71700274: 沉秋拾剑录·二
-71700275: 沉秋拾剑录·三
-71700276: 沉秋拾剑录·四
-71700277: 沉秋拾剑录·五
-71700278: 神樱大拔要略
-71700290: 药师的笔记·一
-71700291: 药师的笔记·二
-71700292: 药师的笔记·三
-71700301: 亡国的美奈姬·卷一
-71700302: 亡国的美奈姬·卷二
-71700303: 亡国的美奈姬·卷三
-71700304: 亡国的美奈姬·卷四
-71700305: 亡国的美奈姬·卷五
-71700306: 亡国的美奈姬·卷六
-71700307: 皇女菲谢尔夜谭·第零卷
-71700308: 鸳港物语·六
-71700309: 鸳港物语·七
-71700310: 鸳港物语·八
-71700311: 提瓦特游览指南·稻妻篇
-71700350: 常世国龙蛇传
---------:-----------------------------
 49001004: 不知道是什么
 49001013: 收缩的岩元素核心？爆炸后伤害挺高
 49001020: 没反应
@@ -3406,8 +3173,8 @@
 44000429: Activity_Gadget_SummerTimeV2_Dungeon_ElectricZone
 44000431: Activity_Gadget_SummerTimeV2_Dungeon_Fischl_OZ
 44000432: Activity_Gadget_SummerTimeV2_Dungeon_Fischl_OZ_Bullet
-45001001: Skiff_Normal_01
-45001002: Skiff_Normal_Beidou
+45001001: 单人小船_普通_01
+45001002: 单人小船_北斗游击艇
 49001001: GeneralSkill_IceDamage_Prison_Center
 49001002: GeneralSkill_WindDamage_Vortex_Center
 49001003: GeneralSkill_RockDamage_LowWave_Emitter
@@ -3701,8 +3468,9 @@
 70110003: 空中传送门
 70110004: 璃月神像
 70110005: 空中传送门X90度
-70110006: SceneObj_Resident_Goddess_DQ
-70110008: SceneObj_Resident_Teleport_02
+70110006: 稻妻神像
+70110007: 须弥神像
+70110008: 倒立的传送锚点
 70120001: 蒙德地城入口01
 70120002: 蒙德地城入口02
 70120003: 地城复活点
@@ -4395,7 +4163,7 @@
 70290322: SceneObj_Area_Cyjy_Property_Prop_PureLitChargePoint_01
 70290323: SceneObj_Area_Common_Property_Ani_Prop_BombMushroomGeo_02
 70290324: SceneObj_Area_Common_Property_Ani_Prop_BombMushroomGeo_01
-70290325: SceneObj_Area_Common_Property_Tree_CameraActivityOperator_01
+70290325: 照相点
 70290326: SceneObj_Area_Common_Property_Prop_CYJYCelestiaClusterSmall_01
 70290327: SceneObj_Area_Cyjy_Property_Prop_LitConnector_01
 70290328: SceneObj_Area_Cyjy_Property_Prop_LitConnectorRay_01
@@ -4785,7 +4553,7 @@
 70310177: SceneObj_Area_Hd_Property_Prop_RotatingConstellation_02
 70310178: SceneObj_Area_Hd_Property_Prop_ConstellationMachine_01
 70310179: SceneObj_Area_Hd_Property_Prop_ConstellationPattern_01
-70310180: SceneObj_MonaDreamland_CameraController_01
+70310180: 进入boos领域的视角变化
 70310181: null
 70310182: null
 70310183: null
@@ -4866,7 +4634,7 @@
 70310300: SceneObj_Gear_Operator_WindTablet
 70310301: SceneObj_Gear_Operator_FireTablet
 70310302: null
-70310303: SceneObj_Area_Dq_Property_Prop_CameraGadget_03
+70310303: 视角锁定2D
 70310304: SceneObj_LostParadise_Common_Property_Ani_Build_DreamMachine_01
 70310305: SceneObj_LostParadise_Common_Property_Build_DreamMachineTower_01
 70310306: SceneObj_Area_Common_Property_Prop_CoreFlower_01
@@ -5068,84 +4836,84 @@
 70330020: 元素之力子弹 岩吸收
 70330021: 元素之岩生成器
 70330022: 岩片本体
-70330023: Element_ElementSeed_Controller
-70330024: SceneObj_Gear_ElemForce_Base
-70330025: SceneObj_Gear_ElemForce_Water
-70330026: SceneObj_Gear_ElemForce_Water_Big
-70330027: SceneObj_Gear_ElemForce_Fire
-70330028: SceneObj_Gear_ElemForce_Fire_Big
-70330029: SceneObj_Gear_ElemForce_Ice
-70330030: SceneObj_Gear_ElemForce_Ice_Big
-70330031: SceneObj_Gear_ElemForce_Electric
-70330032: SceneObj_Gear_ElemForce_Electric_Big
-70330033: SceneObj_Gear_ElemForce_Wind
-70330034: SceneObj_Gear_ElemForce_Wind_Big
-70330035: SceneObj_Gear_ElemForce_Rocky
-70330036: SceneObj_Gear_ElemForce_Rocky_Big
-70330037: SceneObj_Gear_ElemForce_Grass
-70330038: SceneObj_Gear_ElemForce_Grass_Big
-70330039: SceneObj_Gear_ElemForce_Operator
-70330040: SceneObj_Aster_UpLoader
-70330041: SceneObj_Gear_AsterLarge_Operator
-70330042: SceneObj_Aster_UpLoader_Small
-70330043: SceneObj_Level_Common_Property_Prop_GuihuoJizuo_01
-70330044: SceneObj_Level_Common_Property_Prop_Guiguo_01
-70330045: SceneObj_Level_Common_Property_Prop_Portal_01
-70330046: SceneObj_Gear_TowerDefence_TheatreMechanicus
-70330047: SceneObj_Level_Common_Property_Prop_Guiguo_Revert
-70330048: Dahaka_Crystal
-70330049: Dahaka_Crystal
-70330050: Dahaka_Crystal
-70330051: Dahaka_Crystal
-70330052: Dahaka_Crystal
-70330053: Dahaka_Crystal
-70330054: SceneObj_Gear_Combat_TracingEnergyBall_CreatorGadget
-70330055: SceneObj_Gear_Combat_TracingEnergyBall
-70330056: SceneObj_Gear_Combat_TracingEnergyBall_HighSpeed
-70330057: SceneObj_Gear_Combat_ThunderArea
-70330058: null
-70330059: SceneObj_Gear_Combat_ThunderArea_Stage1
-70330060: SceneObj_Gear_Combat_ThunderArea_Stage2
-70330061: SceneObj_Gear_Combat_ThunderArea_Stage3
-70330062: SceneObj_Area_Dq_Property_Ani_Prop_RoleElectricPowerSource_01
-70330063: SceneObj_Area_Dq_Property_Ani_Prop_RoleElectricBomb_01
-70330064: Property_Ani_Foliage_ThunderSeedCreate_01
-70330065: SceneObj_Stages_Property_Ani_Prop_RoleElectricBombArena_01
-70330066: SceneObj_Stages_Property_Prop_StaticThunderArea_01
-70330067: SceneObj_Stages_Property_Ani_Prop_RoleElectricBombArena_02
-70330068: SceneObj_Area_Dq_Property_Ani_Prop_RoleElectricPowerSource_02
-70330069: SceneObj_Area_Dq_Property_Ani_Prop_RoleElectricPowerSource_03
-70330070: SceneObj_Stages_Property_Prop_StaticThunderArea_01_Hard
-70330071: SceneObj_Area_Dq_Property_Ani_Prop_RoleElectricPowerSource_01_Normal
-70330072: SceneObj_Area_Dq_Property_Ani_Prop_RoleElectricPowerSource_01_Challenge
-70330073: SceneObj_Area_Common_Property_Ani_Rock_TMStone_01
-70330074: SceneObj_Area_Common_Property_Ani_Rock_TMStone_01
-70330075: SceneObj_Area_Common_Property_Ani_Rock_TMStone_01
-70330076: SceneObj_Area_Dq_Property_Build_WataAltarDamaged_01
-70330077: SceneObj_Area_Dq_Property_Prop_WataThunderLock_01
-70330078: SceneObj_Area_Dq_Property_Prop_WataThunderSeal_01
-70330079: SceneObj_Area_Dq_Property_Prop_WataGate_01
-70330080: SceneObj_Area_Dq_Property_Prop_WataGate_01_Point
-70330081: SceneObj_Area_Common_Property_Ani_Rock_RotatableCube_01
-70330082: SceneObj_Area_Dq_Property_Prop_EventThunderbolt_01
-70330083: SceneObj_Area_Common_Property_Ani_Rock_RotatableCube_04
-70330084: SceneObj_Area_Common_Property_Ani_Rock_RotatableCube_03
-70330085: null
-70330086: SceneObj_Level_Cycle_Property_Ani_Prop_ThunderHole_01
-70330087: SceneObj_Level_Cycle_Property_Ani_Prop_ThunderHoleBullet_01
-70330088: SceneObj_Level_Cycle_Property_Ani_Prop_ThunderHoleBullet_02
-70330089: SceneObj_Level_Cycle_Property_Ani_Prop_ThunderHoleBullet_03
-70330090: SceneObj_Area_Dq_Property_Ani_Prop_ElecSource_01
-70330091: SceneObj_Area_Dq_Property_Prop_KitsuneStatue_03
-70330092: SceneObj_Area_Dq_Property_Prop_KitsuneStatue_03
-70330093: SceneObj_Area_Dq_Property_Ani_Stone_MagnetPlatform_01
-70330094: SceneObj_Area_Dq_Property_Ani_Prop_ElecSource_02
-70330095: SceneObj_Area_Dq_Property_Ani_Prop_ElecSource_03
-70330096: SceneObj_Area_Dq_Property_Prop_RaioPattern_01
-70330097: SceneObj_Area_Dq_Property_Ani_Prop_ElecSource_Small_01
-70330098: SceneObj_Area_Dq_Property_Ani_Prop_ElecSource_Small_02
-70330099: SceneObj_Area_Dq_Property_Ani_Prop_ElecSource_Small_03
-70330100: SceneObj_Area_Dq_Property_Ani_Stone_MagnetPlatform_02
+70330023: 炼金种子生成器
+70330024: 炼金炉
+70330025: 炼金水 小
+70330026: 炼金水 大
+70330027: 炼金火 小
+70330028: 炼金火 大
+70330029: 炼金冰 小
+70330030: 炼金冰 大
+70330031: 炼金雷 小
+70330032: 炼金雷 大
+70330033: 炼金风 小
+70330034: 炼金风 大
+70330035: 炼金岩 小
+70330036: 炼金岩 大
+70330037: 炼金草 小
+70330038: 炼金草 大
+70330039: 收取秘宝
+70330040: 陨石分数提交器
+70330041: 领取奖励
+70330042: 陨石分数提交器
+70330043: 鬼火吸收器
+70330044: 搬运鬼火
+70330045: 塔防传送门
+70330046: 机关棋谭
+70330047: 搬运鬼火逻辑恢复器
+70330048: 若陀龙王变色水晶01
+70330049: 若陀龙王变色水晶02
+70330050: 若陀龙王变色水晶03
+70330051: 若陀龙王变色水晶04
+70330052: 若陀龙王变色水晶05
+70330053: 若陀龙王变色水晶06
+70330054: 能量球创生逻辑gadget
+70330055: 追踪能量球
+70330056: 追踪能量球高速版
+70330057: 落雷安全区域
+70330058: 躲猫猫棋
+70330059: 落雷安全区域一阶段
+70330060: 落雷安全区域二阶段
+70330061: 落雷安全区域三阶段
+70330062: 雷灵感应充能桩
+70330063: 雷爆石
+70330064: 雷樱枝条
+70330065: 擂台挑战_雷爆石(普)
+70330066: 擂台挑战_静态雷圈(普)
+70330067: 擂台挑战_雷爆石(挑战)
+70330068: 雷灵感应充能桩02
+70330069: 雷灵感应充能桩03
+70330070: 擂台挑战_静态雷圈(挑战)
+70330071: 擂台挑战_雷电桩(普)
+70330072: 擂台挑战_雷电桩(挑战)
+70330073: 雷共鸣石一型
+70330074: 雷共鸣石二型
+70330075: 雷共鸣石三型
+70330076: 损毁的雷神祭坛
+70330077: 雷元素力量闪电
+70330078: 雷元素能量体
+70330079: 海神之心洞窟大门【废弃】
+70330080: 海神之心洞窟大门
+70330081: 雷导立方
+70330082: 稻妻关卡事件落雷控制器
+70330083: 雷导立方（不可旋转）
+70330084: 雷导立方底座
+70330085: 雷导立方顶部装饰物
+70330086: 雷元素溢出洞口
+70330087: 雷元素球-乱窜
+70330088: 雷元素球-静止
+70330089: 雷元素球-升天
+70330090: 雷源石Lv1
+70330091: 狐仙神像（高）
+70330092: 狐仙神像（矮）
+70330093: 雷浮空岩
+70330094: 雷源石Lv2
+70330095: 雷源石Lv3
+70330096: 封印纹样
+70330097: 雷源石Lv1-0.5倍
+70330098: 雷源石Lv2-0.5倍
+70330099: 雷源石Lv3-0.5倍
+70330100: 雷浮空岩-静态
 70330101: SceneObj_Area_Dq_Property_Prop_RaioPatternLine_01
 70330102: SceneObj_Area_Dq_Property_Prop_RaioPatternLine_02
 70330103: SceneObj_Area_Dq_Property_Prop_RaioPatternLineEnd_01
@@ -5324,262 +5092,261 @@
 70350059: 螺旋深渊 冰锥
 70350060: 元素地城 冰锥
 70350061: 光桥
-70350062: SceneObj_Gear_Other_DungeonFire_Controller_LV2
-70350063: SceneObj_Gear_Other_DungeonIce_Controller_LV2
-70350064: SceneObj_Gear_Other_DungeonWater_Controller_LV2
-70350065: SceneObj_Gear_Other_DungeonThunder_Controller_LV2
-70350066: SceneObj_Gear_Other_DungeonFire_Controller_LV3
-70350067: SceneObj_Gear_Other_DungeonIce_Controller_LV3
-70350068: SceneObj_Gear_Other_DungeonWater_Controller_LV3
-70350069: SceneObj_Gear_Other_DungeonThunder_Controller_LV3
-70350070: SceneObj_Gear_Other_Dungeon_Bridge_0_76
-70350071: SceneObj_Gear_Other_Dungeon_Bridge_1_2
-70350072: SceneObj_Gear_Other_Dungeon_Bridge_Multi
-70350073: SceneObj_Gear_Other_Spiral_Abyss_Charge
-70350074: SceneObj_Gear_Other_Spiral_Abyss_AttackSpeed
-70350075: SceneObj_Gear_Other_Spiral_Abyss_ShieldUp
-70350076: SceneObj_Gear_Other_Spiral_Abyss_CostReduce
-70350077: SceneObj_Gear_Gate_DungeonGate04
-70350078: SceneObj_Gear_Other_DungeonIce_DropIce02
-70350079: SceneObj_Gear_Other_DungeonIce_DropIce03
-70350080: SceneObj_Gear_Other_Treasureplatform
-70350081: SceneObj_Gear_Other_CommonOperator_01
-70350082: SceneObj_Property_Stages_Prop_Challengestarter_01
-70350083: SceneObj_Property_Stages_Prop_Challengestarter_02
-70350084: SceneObj_Property_Stages_Prop_Challengestarter_03
-70350085: SceneObj_Stages_Property_Prop_IndicatorHolder_01
-70350086: SceneObj_Gear_Operator_Mamolu_Entity
-70350087: SceneObj_Gear_Operator_Mamolu_ThunderStorm
-70350088: SceneObj_Gear_Spiral_Abyss_AncientHeatSource
-70350089: SceneObj_Gear_Spiral_Abyss_IceStormR25
-70350090: SceneObj_Gear_Spiral_Abyss_FireSeelie
-70350091: SceneObj_Area_Common_Property_Ani_Prop_SnowDungeonPlatform
-70350092: SceneObj_Property_Stages_Prop_Challengestarter_01
-70350093: SceneObj_Property_Stages_Prop_Challengestarter_02
-70350094: SceneObj_Property_Stages_Prop_Challengestarter_03
-70350095: null
-70350096: SceneObj_Area_Common_Property_Prop_SnowDungeonAirWall
-70350097: SceneObj_Area_Common_Property_Prop_SnowDungeonRemainder
-70350098: SceneObj_Gear_Other_Treasureplatform
-70350099: SceneObj_Gear_TowerDefence_Water
-70350100: SceneObj_Gear_TowerDefence_Fire
-70350101: SceneObj_Gear_TowerDefence_Ice
-70350102: SceneObj_Gear_TowerDefence_Wind
-70350103: SceneObj_Gear_TowerDefence_Electric
-70350104: SceneObj_Gear_TowerDefence_FireBullet
-70350105: SceneObj_Gear_TowerDefence_IceBullet
-70350106: SceneObj_Gear_Other_XiaoUltra_Conroller
-70350107: SceneObj_Gear_TowerDefence_Basic
-70350108: SceneObj_Gear_TowerDefence_HeadControl
-70350109: SceneObj_Gear_TowerDefence_HeadControlBullet
-70350110: SceneObj_Level_Common_Property_Prop_TowerBridge_01
-70350111: SceneObj_Gear_TowerDefence_PumpkinBomb
-70350112: SceneObj_Gear_TowerDefence_Water_LV2
-70350113: SceneObj_Gear_TowerDefence_Fire_LV2
-70350114: SceneObj_Gear_TowerDefence_Ice_LV2
-70350115: SceneObj_Gear_TowerDefence_Wind_LV2
-70350116: SceneObj_Gear_TowerDefence_Electric_LV2
-70350117: SceneObj_Gear_TowerDefence_Water_LV3
-70350118: SceneObj_Gear_TowerDefence_Fire_LV3
-70350119: SceneObj_Gear_TowerDefence_Ice_LV3
-70350120: SceneObj_Gear_TowerDefence_Wind_LV3
-70350121: SceneObj_Gear_TowerDefence_Electric_LV3
-70350122: SceneObj_Gear_TowerDefence_FireBullet_LV2
-70350123: SceneObj_Gear_TowerDefence_IceBullet_LV2
-70350124: SceneObj_Gear_TowerDefence_FireBullet_LV3
-70350125: SceneObj_Gear_TowerDefence_IceBullet_LV3
-70350126: SceneObj_Gear_TowerDefence_IceBullet_LV3_DropIce
-70350127: SceneObj_Gear_TowerDefence_Fire_LV3_FireFloor
-70350128: SceneObj_Gear_TowerDefence_Water_Blister
-70350129: SceneObj_Level_Common_Property_Prop_TowerEnhancer_01_LV1
-70350130: SceneObj_Level_Common_Property_Prop_TowerEnhancer_01_LV2
-70350131: SceneObj_Level_Common_Property_Prop_TowerEnhancer_01_LV3
-70350132: SceneObj_WindFlower_HealBall_Creator
-70350133: SceneObj_WindFlower_HealBall
-70350134: SceneObj_WindFlower_WindFlora_Creator
-70350135: SceneObj_WindFlower_WindFlora
-70350136: SceneObj_WindFlower_WindFlora_Normal02
-70350137: SceneObj_WindFlower_WindFlora_Bomb
-70350138: SceneObj_WindFlower_WindFlora_BubblePlatform
-70350139: SceneObj_WindFlower_BulletCreator
-70350140: SceneObj_WindFlower_HorizontalBullet
-70350141: SceneObj_Gear_TowerDefence_PumpkinBomb_LV2
-70350142: SceneObj_Gear_TowerDefence_PumpkinBomb_LV3
-70350143: SceneObj_Gear_TowerDefence_HeadControl_LV2
-70350144: SceneObj_Gear_TowerDefence_HeadControl_LV3
-70350145: SceneObj_Gear_TowerDefence_Basic_Offical
-70350146: SceneObj_Level_Common_Property_Ani_Prop_HiddenDoor_01
-70350147: SceneObj_WindFlower_WindFlora_RangeCreator
-70350148: SceneObj_WindFlower_WindFlora_Normal
-70350149: SceneObj_Gear_TowerDefence_WaterBullet
-70350150: SceneObj_Gear_TowerDefence_ElectricBullet
-70350151: SceneObj_Gear_TowerDefence_WindBullet
-70350152: SceneObj_Level_Common_Property_Prop_HtutaoPlatform_01
-70350153: SceneObj_Gear_Platform_NormalPlatform
-70350154: SceneObj_Gear_TowerDefence_HeadControlBullet_LV2
-70350155: SceneObj_Gear_TowerDefence_WaterBullet_LV2
-70350156: SceneObj_Gear_TowerDefence_WaterBullet_LV3
-70350157: SceneObj_Gear_TowerDefence_ElectricBullet_LV2
-70350158: SceneObj_Level_Common_Property_Prop_TowerAbsorber_01
-70350159: SceneObj_Level_Common_Property_Prop_TowerWaypoint_01
-70350160: SceneObj_Gear_Other_FadeoutFloor
-70350161: SceneObj_WindFlower_Laser
-70350162: SceneObj_Gear_TowerDefence_Water_Blister02
-70350163: SceneObj_Gear_TowerDefence_Water_Blister03
-70350164: SceneObj_Gear_TowerDefence_Water_Blister04
-70350165: null
-70350166: SceneObj_Gear_TowerDefence_Speed_Down
-70350167: SceneObj_Gear_TowerDefence_HeadControlBullet_LV3
-70350168: SceneObj_Gear_Other_Goddess
-70350169: SceneObj_Level_Common_Property_Build_CorrosiveFloor_01
-70350170: SceneObj_Level_Common_Property_Build_DarkWaterShoot_01
-70350171: SceneObj_Level_Common_Property_Build_DarkWaterShoot_02
-70350172: SceneObj_Area_Md_Property_Ani_Prop_Ballon_03
-70350173: SceneObj_Area_Md_Property_Ani_Prop_Ballon_01
-70350174: SceneObj_Area_Md_Property_Ani_Prop_Ballon_02
-70350175: SceneObj_Area_Md_Property_Ani_Prop_Ballon_04
-70350176: SceneObj_Gear_TowerDefence_RockGadget_Detect_Platform
-70350177: SceneObj_WindFlower_BubbleCreator
-70350178: SceneObj_WindFlower_Arenashake
-70350179: SceneObj_WindFlower_HorizontalBullet_LowSpeed
-70350180: SceneObj_WindFlower_HorizontalBullet_HighSpeed
-70350181: SceneObj_WindFlower_HorizontalBullet_Ice
-70350182: SceneObj_WindFlower_HorizontalBullet_Fire
-70350183: SceneObj_WindFlower_HorizontalBullet_Water
-70350184: SceneObj_WindFlower_HorizontalBullet_Grow
-70350185: SceneObj_WindFlower_WindFlora_BubbleNoMove
-70350186: SceneObj_WindFlower_WindFlora_AttackCirecle
-70350187: SceneObj_WindFlower_WindFlora_Common
-70350188: SceneObj_WindFlower_IceFall_Bullet
-70350189: SceneObj_WindFlower_FireFall_Bullet
-70350190: SceneObj_WindFlower_ElementFall
-70350191: SceneObj_WindFlower_HorizontalBullet_Grow_Ele
-70350192: SceneObj_WindFlower_HorizontalBullet_Grow_Ice
-70350193: SceneObj_WindFlower_HorizontalBullet_Grow_Fire
-70350194: SceneObj_WindFlower_HorizontalBullet_Grow_Water
-70350195: SceneObj_Level_Md_Property_Flower_ActivityFlowerHide_02
-70350196: SceneObj_WindFlower_WindFlora_AttackCirecle_419
-70350197: SceneObj_WindFlower_BulletTrip_Electric
-70350198: SceneObj_WindFlower_BulletTrip_Fire
-70350199: SceneObj_WindFlower_BulletTrip_Water
-70350200: SceneObj_WindFlower_BulletTrip_Ice
-70350201: SceneObj_Area_Common_Property_Ani_Prop_CampEnhancer_01
-70350202: SceneObj_Area_Common_Property_Ani_Prop_CampEnhancerBase_01
-70350203: SceneObj_WindFlower_ThunderFall
-70350204: SceneObj_WindFlower_ThunderBall
-70350205: SceneObj_LudiHarpastum_ShooterBack
-70350206: SceneObj_LudiHarpastum_BulletNormal
-70350207: SceneObj_LudiHarpastum_BulletBack
-70350208: SceneObj_LudiHarpastum_Shooter
-70350209: SceneObj_WindFlower_WindFlora_BubbleBullet
-70350210: SceneObj_LudiHarpastum_BulletNormal_Line
-70350211: SceneObj_LudiHarpastum_LudiSplitter_Receive
-70350212: SceneObj_LudiHarpastum_LudiSplitter_Shoot
-70350213: SceneObj_LudiHarpastum_LudiSplitter_Bullet
-70350214: SceneObj_WindFlower_WindFlora_Airwall
-70350215: SceneObj_Level_Common_Property_Ani_Prop_TrackingOrgan_01_Fire
-70350216: SceneObj_Level_Common_Property_Ani_Prop_TrackingOrgan_01_Ice
-70350217: SceneObj_Level_Common_Property_Ani_Prop_TrackingOrgan_01_Water
-70350218: SceneObj_Level_Common_Property_Ani_Prop_TrackingOrgan_01_Thunder
-70350219: SceneObj_Level_Common_Property_Ani_Prop_TrackingOrgan_01_Wind
-70350220: SceneObj_LudiHarpastum_Shooter_Floor
-70350221: SceneObj_Level_Common_Property_Prop_TrackingOrganBullet_01_Fire
-70350222: SceneObj_Level_Common_Property_Prop_TrackingOrganBullet_01_Water
-70350223: SceneObj_Level_Common_Property_Prop_TrackingOrganBullet_01_Ice
-70350224: SceneObj_LudiHarpastum_ShooterBack_Smile
-70350225: SceneObj_LudiHarpastum_LudiSplitter_Bullet_Fire
-70350226: SceneObj_LudiHarpastum_LudiSplitter_Bullet_Electric
-70350227: SceneObj_LudiHarpastum_LudiSplitter_Bullet_Water
-70350228: SceneObj_LudiHarpastum_LudiSplitter_Bullet_Wind
-70350229: SceneObj_LudiHarpastum_BulletRock
-70350230: SceneObj_LudiHarpastum_BulletIce
-70350231: SceneObj_LudiHarpastum_BulletCurve
-70350232: SceneObj_LudiHarpastum_BulletHighSpeed
-70350233: SceneObj_LudiHarpastum_BulletTaunt
-70350234: SceneObj_LudiHarpastum_BulletBack_Normal
-70350235: SceneObj_LudiHarpastum_BulletBack_Soil
-70350236: SceneObj_LudiHarpastum_BulletBack_Ice
-70350237: SceneObj_LudiHarpastum_BulletBack_Curve
-70350238: SceneObj_LudiHarpastum_BulletBack_Speed
-70350239: SceneObj_LudiHarpastum_BulletBack_Attract
-70350240: SceneObj_Area_Common_Property_Prop_LudiHoopPyro_Base_01
-70350241: SceneObj_Area_Common_Property_Prop_LudiHoopElectro_Base_01
-70350242: SceneObj_Area_Common_Property_Prop_LudiHoopHydro_Base_01
-70350243: SceneObj_Area_Common_Property_Prop_LudiHoopAnemo_Base_01
-70350244: SceneObj_Level_Common_Property_Prop_TowerBridge_02
-70350245: SceneObj_Gear_Dungeon_MistTrial_Ball_AttackUp
-70350246: SceneObj_Gear_Dungeon_MistTrial_Ball_Heal
-70350247: SceneObj_Gear_Dungeon_MistTrial_Ball_SpeedUp
-70350248: SceneObj_Area_Common_Property_Ani_Prop_PropGoldShoes_01
-70350249: SceneObj_Area_Common_Property_Ani_Prop_BoatRaceCrate_02
-70350250: SceneObj_Area_Common_Property_Ani_Prop_BoatRaceStart_01
-70350251: SceneObj_LudiHarpastum_BUFFController
-70350252: SceneObj_LudiHarpastum_Proppepper
-70350253: SceneObj_LudiHarpastum_ChallengeTarget
-70350254: SceneObj_Area_Common_Property_Ani_Prop_BoatRaceCrate_01
-70350255: SceneObj_Area_Common_Property_Ani_Prop_BoatRaceCrate_01_Bullet
-70350256: SceneObj_Area_Common_Property_Ani_Prop_BoatRaceCoin_01
-70350257: SceneObj_Area_Common_Property_Ani_Prop_PropGoldBat_01
-70350258: SceneObj_Area_Common_Property_Ani_Prop_BoatRaceBoost_01
-70350259: Bullet_Skiff_Cannon_Small
-70350260: Bullet_Skiff_Cannon_Big
-70350261: SceneObj_Area_Common_Property_Ani_Prop_BadmintonBoard_01
-70350262: SceneObj_LudiHarpastum_TraceTarget
-70350263: SceneObj_LudiHarpastum_ShooterBack_Smile
-70350264: SceneObj_LudiHarpastum_ShooterBack_SmileLV2
-70350265: SceneObj_LudiHarpastum_ShooterBack_SmileLV3
-70350266: SceneObj_Area_Common_Property_Prop_AliceSeaProbe_01
-70350267: SceneObj_LudiHarpastum_ShooterBack
-70350268: SceneObj_LudiHarpastum_ShooterBackLV2
-70350269: SceneObj_LudiHarpastum_ShooterBackLV3
-70350270: SceneObj_LudiHarpastum_LudiSplitter_Base
-70350271: null
-70350272: SceneObj_LudiHarpastum_BulletNormal_02
-70350273: SceneObj_LudiHarpastum_BulletNormal
-70350276: SkillObj_Skiff_SprintTrigger
-70350277: SceneObj_Area_Common_Property_Prop_GuideWind_01
-70350278: SceneObj_LudiHarpastum_CameraController
-70350279: SceneObj_Area_Dq_Property_Ani_Prop_CommonRockGate_03
-70350280: SceneObj_LudiHarpastum_BulletNormal_03
-70350281: SceneObj_Gear_TowerDefenceV2_Water
-70350282: SceneObj_Gear_TowerDefenceV2_Fire
-70350283: SceneObj_Gear_TowerDefenceV2_Ice
-70350284: SceneObj_Gear_TowerDefenceV2_Wind
-70350285: SceneObj_Gear_TowerDefenceV2_Electric
-70350286: SceneObj_Gear_TowerDefenceV2_Physics
-70350287: SceneObj_Gear_TowerDefenceV2_WindBullet
-70350288: SceneObj_Gear_TowerDefence_ElectricBullet
-70350289: SceneObj_Gear_TowerDefenceV2_PhysicsBullet
-70350290: SceneObj_Area_Dq_Property_Prop_ThroughableWall_01
-70350291: SceneObj_Gear_TowerDefenceV2_Water_Bubble
-70350292: SceneObj_Gear_Platform_ElectricSeelie_01
-70350293: SceneObj_Level_Hf_Property_Ani_Prop_SlidingWall_01
-70350294: SceneObj_Level_Common_Property_Prop_TowerAbsorberV2
-70350295: SceneObj_Gear_TowerDefenceV2_FireBullet
-70350296: SceneObj_Gear_TowerDefenceV2_IceBullet
-70350297: SceneObj_Gear_TowerDefenceV2_Ice_Fog
-70350298: SceneObj_Gear_TowerDefenceV2_Mine
-70350299: SceneObj_Gear_TowerDefenceV2_Trap
-70350300: SceneObj_Gear_TowerDefenceV2_FireMissileCreator
-70350301: SceneObj_Gear_TowerDefenceV2_FireMissile
-70350302: SceneObj_Gear_TowerDefenceV2_FireArea
-70350303: SceneObj_Level_Common_Property_Prop_TowerEnhancerV2
-70350304: SceneObj_Gear_TowerDefenceV2_PhysicsEnergyBullet
-70350305: SceneObj_Level_Common_Property_Prop_TowerRepelV2
-70350306: SceneObj_Level_Common_Property_Ani_Prop_StageFireBasket_01
-70350307: SceneObj_Level_Common_Property_Ani_Prop_StageSmallFireBasket_01
-70350308: SceneObj_Level_Common_Property_Ani_Prop_StageHangLamp_01
-70350309: SceneObj_Level_Common_Property_Prop_SumoAtmosphere
-70350310: SceneObj_Level_Common_Property_Prop_SumoAtmosphere
-70350311: SceneObj_Level_Common_Property_Prop_SumoAtmosphere
-70350312: SceneObj_Level_Common_Property_Prop_SumoAtmosphere
-70350313: SceneObj_Area_Dq_Property_Ani_Build_CommonRockGate_04
-70350314: SceneObj_Level_Common_Property_Ani_Prop_HiddenDoor_01
-70350315: SceneObj_Area_Dq_Property_Ani_Prop_RuinTrapDoor_01
-70350316: SceneObj_Area_Cyjy_Property_Ani_Prop_ChalcedonyBullet_01
-70350317: SceneObj_Area_Dq_Property_Prop_ReginFeather_02
-70350318: SceneObj_Gear_Other_CommonOperatorShader_01
-70350319: SceneObj_Area_Dq_Property_Prop_ReginFeather_03
+70350062: 火元素地城阶段切换器
+70350063: 冰元素地城阶段切换器
+70350064: 水元素地城阶段切换器
+70350065: 雷元素地城阶段切换器
+70350066: 火元素地城阶段切换器
+70350067: 冰元素地城阶段切换器
+70350068: 水元素地城阶段切换器
+70350069: 雷元素地城阶段切换器
+70350070: 光桥
+70350071: 光桥
+70350072: 光桥
+70350073: 螺旋深渊_充能
+70350074: 螺旋深渊_攻速
+70350075: 螺旋深渊_护盾
+70350076: 螺旋深渊_体力
+70350077: 地城大门04Scale0.6
+70350078: 元素地城 冰锥
+70350079: 元素地城 冰锥
+70350080: 遗迹石台
+70350081: 通用交互机关
+70350082: 挑战开启机关-击杀
+70350083: 挑战开启机关-沙漏
+70350084: 挑战开启机关-破坏
+70350085: 通用空目标点
+70350086: 守护玩法实体
+70350087: 守护玩法
+70350088: 古代热源
+70350089: 冰风暴R25
+70350090: 火仙灵
+70350091: 雪山地城板
+70350092: 挑战开启机关-击杀
+70350093: 挑战开启机关-沙漏
+70350094: 挑战开启机关-破坏
+70350095: 璃月水车
+70350096: 雪山地城空气墙
+70350097: 雪山地城remainder
+70350098: 遗迹石台
+70350099: 塔防 水炮塔
+70350100: 塔防 火炮塔
+70350101: 塔防 冰炮塔
+70350102: 塔防 风炮塔
+70350103: 塔防 雷炮塔
+70350104: 塔防 火炮塔子弹
+70350105: 塔防 冰炮塔子弹
+70350106: 魈大招控制器
+70350107: 塔防 底座
+70350108: 塔防 无属性炮塔
+70350109: 塔防 无属性炮塔子弹
+70350110: 光桥-塔防
+70350111: 炸药桶-塔防
+70350112: 塔防 水炮塔 LV2
+70350113: 塔防 火炮塔 LV2
+70350114: 塔防 冰炮塔 LV2
+70350115: 塔防 风炮塔 LV2
+70350116: 塔防 雷炮塔 LV2
+70350117: 塔防 水炮塔 LV3
+70350118: 塔防 火炮塔 LV3
+70350119: 塔防 冰炮塔 LV3
+70350120: 塔防 风炮塔 LV3
+70350121: 塔防 雷炮塔 LV3
+70350122: 塔防 火炮塔子弹 LV2
+70350123: 塔防 冰炮塔子弹 LV2
+70350124: 塔防 火炮塔子弹 LV3
+70350125: 塔防 冰炮塔子弹 LV3
+70350126: 塔防 冰炮塔 冰锥
+70350127: 塔防 火炮塔 燃烧地面
+70350128: 塔防 水炮塔 水泡
+70350129: 塔防 炮塔增幅器 LV1
+70350130: 塔防 炮塔增幅器 LV2
+70350131: 塔防 炮塔增幅器 LV3
+70350132: 风花节 治疗球创生器
+70350133: 风花节 治疗球
+70350134: 风花节 风之花创生器
+70350135: 风花节 风之花
+70350136: 风花节 正常花瓣 飞行
+70350137: 风花节 爆炸花瓣
+70350138: 风花节 泡泡移动平台
+70350139: 风花节 弹幕发射器
+70350140: 风花节 弹幕子弹
+70350141: 炸药桶-塔防 LV2
+70350142: 炸药桶-塔防 LV3
+70350143: 塔防 无属性炮塔 LV2
+70350144: 塔防 无属性炮塔 LV3
+70350145: 塔防 底座 正式版
+70350146: 胡桃线暗门
+70350147: 风花节 风之花创生器 范围型
+70350148: 风花节 正常花瓣
+70350149: 塔防 水炮塔子弹
+70350150: 塔防 雷炮塔子弹
+70350151: 塔防 风炮塔子弹
+70350152: 胡桃线造假平台
+70350153: 胡桃线造假水面
+70350154: 塔防 无属性炮塔子弹 LV2
+70350155: 塔防 水炮塔子弹 LV2
+70350156: 塔防 水炮塔子弹 LV3
+70350157: 塔防 雷炮塔子弹 LV2
+70350158: 塔防 建造值增幅器 LV1
+70350159: 塔防 怪物指引特效
+70350160: 双子线 渐隐平台
+70350161: 风花节 射线机关
+70350162: 塔防 水炮塔 水泡
+70350163: 塔防 水炮塔 水泡
+70350164: 塔防 水炮塔 水泡
+70350165: 塔防 普攻限制器
+70350166: 塔防 队伍减速器
+70350167: 塔防 无属性炮塔子弹 LV3
+70350168: 双子线倒挂蒙德神像
+70350169: 双子线 腐蚀地板
+70350170: 双子线 能量球
+70350171: 双子线 能量球发射器
+70350172: 风花节爆炸靶子
+70350173: 风花节普通靶子
+70350174: 风花节高分靶子
+70350175: 风花节惩罚靶子
+70350176: 塔防-岩创生物屏蔽平台
+70350177: 风花节 泡泡发射器
+70350178: 风花节 擂台打桩机
+70350179: 风花节 弹幕慢速子弹
+70350180: 风花节 弹幕高速子弹
+70350181: 风花节 弹幕子弹 冰
+70350182: 风花节 弹幕子弹 火
+70350183: 风花节 弹幕子弹 水
+70350184: 风花节 弹幕环形子弹
+70350185: 风花节 泡泡陷阱
+70350186: 风花节 擂台攻击圈
+70350187: 风花节 通用花瓣
+70350188: 风花节 落冰
+70350189: 风花节 落火
+70350190: 风花节 落火冰雷控制器
+70350191: 风花节 弹幕环形子弹
+70350192: 风花节 弹幕环形子弹
+70350193: 风花节 弹幕环形子弹
+70350194: 风花节 弹幕环形子弹
+70350195: 风花节 通用花瓣隐形版
+70350196: 风花节 擂台攻击圈 一次性
+70350197: 风花节 弹幕 雷陷阱
+70350198: 风花节 弹幕 火陷阱
+70350199: 风花节 弹幕 水陷阱
+70350200: 风花节 弹幕 冰陷阱
+70350201: 可破坏的增幅器
+70350202: 可破坏的增幅器底座
+70350203: 风花节 落雷
+70350204: 风花节 闪电球
+70350205: 羽球节 发球器 返
+70350206: 羽球节 普通羽球 子弹
+70350207: 羽球节 返球 子弹
+70350208: 羽球节 发球器
+70350209: 风花节 泡泡 子弹
+70350210: 羽球节 普通羽球 子弹 直线
+70350211: 羽球节 分裂器 接收
+70350212: 羽球节 分裂器 发射
+70350213: 羽球节 分裂器 子弹 直线
+70350214: 风花节 塌陷地板天花板
+70350215: 试玩地城_追踪机关_火
+70350216: 试玩地城_追踪机关_冰
+70350217: 试玩地城_追踪机关_水
+70350218: 试玩地城_追踪机关_雷
+70350219: 试玩地城_追踪机关_风
+70350220: 羽球节 场地边线
+70350221: 试玩地城_追踪机关子弹_火
+70350222: 试玩地城_追踪机关子弹_水
+70350223: 试玩地城_追踪机关子弹_冰
+70350224: 羽球节 发球器 返 笑脸
+70350225: 羽球节 分裂器 子弹 火
+70350226: 羽球节 分裂器 子弹 雷
+70350227: 羽球节 分裂器 子弹 水
+70350228: 羽球节 分裂器 子弹 风
+70350229: 羽球节 羽球子弹 系统组 岩土
+70350230: 羽球节 羽球子弹 系统组 冰
+70350231: 羽球节 羽球子弹 系统组 曲线
+70350232: 羽球节 羽球子弹 系统组 高速
+70350233: 羽球节 羽球子弹 系统组 嘲讽
+70350234: 羽球节 返球 系统 普通
+70350235: 羽球节 返球 系统 岩土
+70350236: 羽球节 返球 系统 冰	  
+70350237: 羽球节 返球 系统 曲线
+70350238: 羽球节 返球 系统 高速
+70350239: 羽球节 返球 系统 嘲讽
+70350240: 羽球节 火台座底座
+70350241: 羽球节 雷台座底座
+70350242: 羽球节 水台座底座
+70350243: 羽球节 风台座底座
+70350244: 试玩地城光桥地板
+70350245: 试玩地城 攻击球
+70350246: 试玩地城 治疗球
+70350247: 试玩地城 移速球
+70350248: 羽球节 黄金鞋 加速BUFF
+70350249: 海岛 能量球 回能
+70350250: 海岛 竞速挑战 机关
+70350251: 羽球节 BUFF控制器
+70350252: 羽球节 绝云辣椒BUFF
+70350253: 海岛积分挑战 靶标
+70350254: 海岛 技能球
+70350255: 海岛 技能球-子弹
+70350256: 海岛 激流纹章
+70350257: 羽球节 黄金球拍
+70350258: 海岛 加速水流
+70350259: 载具_小船_小炮弹
+70350260: 载具_小船_大炮弹
+70350261: 羽球节 画板
+70350262: 羽球节 系统组 追踪弹目标
+70350263: 羽球节 节奏机LV1
+70350264: 羽球节 节奏机LV2
+70350265: 羽球节 节奏机LV3
+70350266: 海岛 海上探针
+70350267: 羽球节 发球机LV1
+70350268: 羽球节 发球机LV2
+70350269: 羽球节 发球机LV3
+70350270: 羽球节 分裂器 底座
+70350271: 羽球节 场地边线（联机）
+70350272: 羽球节 羽球子弹 系统组 抛物线
+70350273: 羽球节 羽球子弹 系统组 三连发
+70350276: 载具_小船_冲撞
+70350277: 海岛 指引海风
+70350278: 羽球 镜头控制器
+70350279: 遗迹圆形门
+70350280: 羽球节 羽球子弹 系统组 近距离抛物线
+70350281: 塔防V2 水炮塔
+70350282: 塔防V2 火炮塔
+70350283: 塔防V2 冰炮塔
+70350284: 塔防V2 风炮塔
+70350285: 塔防V2 雷炮塔
+70350286: 塔防V2 无属性炮塔
+70350287: 塔防V2 风炮塔子弹
+70350288: 塔防V2 雷炮塔子弹
+70350289: 塔防V2 无属性炮塔子弹
+70350290: 白盒 鹤观隐形门
+70350291: 塔防V2 水炮塔 水泡
+70350292: 雷仙灵 球形闪电
+70350293: 移动墙
+70350294: 塔防V2 建造值吸收器
+70350295: 塔防V2 火炮塔子弹
+70350296: 塔防V2 冰炮塔子弹
+70350297: 塔防V2 冰炮台冰雾
+70350298: 塔防V2 诡雷
+70350299: 塔防V2 禁锢机关
+70350300: 塔防V2 火炮塔导弹创生点
+70350301: 塔防V2 火炮塔导弹
+70350302: 塔防V2 火炮塔灼热地面
+70350303: 塔防V2 塔增幅器
+70350304: 塔防V2 无属性炮塔能量子弹
+70350305: 塔防V2 斥力机关
+70350306: 2.1换人挑战 大火盆
+70350307: 2.1换人挑战 小火盆
+70350308: 2.1换人挑战 挂灯
+70350309: 2.1换人挑战 场景氛围1阶段
+70350310: 2.1换人挑战 场景氛围2阶段
+70350311: 2.1换人挑战 场景氛围3阶段
+70350312: 2.1换人挑战 场景氛围4阶段
+70350313: 大世界遗迹门01
+70350314: 大世界遗迹门02
+70350315: 鹤观 隐藏门
+70350317: 雷鸟之心碎片
+70350318: 鹤观 通用交互机关
+70350319: 雷鸟之心碎片
 70350320: SceneObj_Level_Common_Property_Prop_UGCBase_01
 70350321: SceneObj_Level_Common_Property_Prop_UGCBaseBlock_01
 70350322: SceneObj_Level_Common_Property_Prop_UGCBase_01
@@ -5616,8 +5383,8 @@
 70350353: SceneObj_UGC_StartPoint
 70350354: SceneObj_UGC_EndPoint
 70350355: SceneObj_UGC_EndPoint
-70350356: SceneObj_Stages_Property_Prop_IndicatorHolder_02
-70350357: SceneObj_Property_Stages_Prop_Challengestarter_02_Keep
+70350356: 通用空目标点 默认视距
+70350357: 挑战开启机关-沙漏（维持特效）
 70350358: SceneObj_UGC_Flamethrower_Display
 70350359: SceneObj_UGC_Flamethrower_Run
 70350360: SceneObj_Level_Common_Property_Prop_UGCBase_01
@@ -5764,205 +5531,199 @@
 70360066: 轻策之藏
 70360067: 轻策之藏 子弹
 70360068: 地灵龛
-70360069: SceneObj_Gear_Operator_Qingce_Entity
-70360070: SceneObj_Gear_Other_Qingce_Treasure_Trigger
-70360071: SceneObj_Gear_Other_SaviorRock_01
-70360072: SceneObj_Gear_Other_SaviorRock_02
-70360073: SceneObj_Gear_Other_RockTotem_Fire_Max
-70360074: SceneObj_Gear_Other_RockTotem_Ice_Max
-70360075: SceneObj_Gear_Other_RockTotem_Electric_Max
-70360076: SceneObj_Gear_Other_GhostBalloon_Tree
-70360077: SceneObj_Gear_Other_Balloon_Bullet
-70360078: SceneObj_Gear_Platform_BalloonTree_MovingTarget
-70360079: SceneObj_Gear_Gate_Common_RockGate
-70360080: SceneObj_Gear_Bossplace_Rock
-70360081: SceneObj_Gear_Bossplace_Wind
-70360082: SceneObj_Gear_Bossplace_Electric
-70360083: SceneObj_Gear_Bossplace_Plot_Rock
-70360084: SceneObj_Gear_Bossplace_Plot_Wind
-70360085: SceneObj_Gear_Bossplace_Plot_Electric
-70360086: SceneObj_Gear_Other_SaviorRock_03
-70360087: SceneObj_Gear_Other_SaviorRock_04
-70360088: SceneObj_Gear_Gate_AncientGate
-70360089: SceneObj_Gear_Other_StaticHint
-70360090: SceneObj_Gear_Other_Balloon_Bullet2
-70360091: SceneObj_Gear_Other_Balloon_Bullet3
-70360092: SceneObj_Gear_Other_RuinsTreasure
-70360093: SceneObj_Gear_Platform_GlideChampBalloon
-70360094: SceneObj_Gear_Other_GlideChampOrb
-70360095: SceneObj_Gear_Platform_GlideDirtyBalloon
-70360096: SceneObj_Gear_Platform_GlideChampCoin
-70360097: SceneObj_Gear_Other_Spring
-70360098: SceneObj_Area_Common_Property_Prop_HistoryBoard_01
-70360099: SceneObj_Stages_Property_Ani_Prop_IceTotem_01
-70360100: SceneObj_Gear_Combat_Shooter_Laser_Moveable_Gongzi
-70360101: SceneObj_Area_Common_Property_Prop_FrozenDefender_01
-70360102: SceneObj_Stages_Property_Ani_Prop_SnowPile_01
-70360103: SceneObj_Area_Common_Property_Ani_Prop_FloatingIce_01
-70360104: SceneObj_Area_Common_Property_Prop_HumanBeacon_01
-70360105: SceneObj_Stages_Property_Prop_IceStormR25
-70360106: SceneObj_Stages_Property_Prop_RegisvineShield
-70360107: SceneObj_Gear_Operator_ElementBlock_Dragon
-70360108: SceneObj_Stages_Property_Prop_IceShieldInactivated
-70360109: SceneObj_Stages_Property_Prop_IceShieldActivated
-70360110: SceneObj_Stages_Property_Prop_SnowStormArea
-70360111: SceneObj_Area_Ljxs_Property_Prop_ColdAirSeal
-70360112: SceneObj_Area_Ljxs_Property_Prop_IceBarrier
-70360113: SceneObj_Area_Ljxs_Property_Prop_IceBarrier02
-70360114: SceneObj_Area_Ljxs_Property_Prop_RegisvinePillar
-70360115: SceneObj_Area_Ljxs_Property_Ani_Build_CelestiaClusterBase_01
-70360116: SceneObj_Area_Ljxs_Property_Ani_Build_CelestiaClusterBase_02
-70360117: SceneObj_Area_Ljxs_Property_Ani_Build_CelestiaClusterBase_03
-70360118: SceneObj_Area_Ljxs_Property_Prop_IceSeal
-70360119: SceneObj_Area_Common_Property_Ani_Prop_DunlinsHeart
-70360120: SceneObj_Area_Ljxs_Property_Prop_IceSeal_02
-70360121: SceneObj_Stages_Property_Prop_IceStormR60
-70360122: SceneObj_Gear_Other_InvisibleUploader
-70360123: SceneObj_Gear_Gate_Common_RockGate
-70360124: SceneObj_Area_Ljxs_Property_Prop_IceBarrier_1.3
-70360125: SceneObj_Gear_Operator_Invisible_Operator_Snowmountain_Event
-70360126: SceneObj_Gear_Operator_Invisible_Operator_Snowmountain_Event
-70360127: SceneObj_BulinsBloodOre_Generator
-70360128: SceneObj_Gear_Operator_ElementBlock_Hero
-70360129: SceneObj_Gear_Operator_Invisible_Operator
-70360130: SceneObj_Gear_Other_DriftBottle
-70360131: null
-70360132: SceneObj_SnowMountain_DorpIceController
-70360133: SceneObj_SnowMountain_DorpIceBullet
-70360134: SceneObj_SnowMountain_DorpIceDamage
-70360135: null
-70360136: SceneObj_Area_Md_Property_Prop_FleurStamina_01
-70360137: SceneObj_Area_Md_Property_Ani_Prop_FleurCredit_01
-70360138: SceneObj_Area_Md_Property_Ani_Prop_FleurCredit_02
-70360139: SceneObj_Area_Md_Property_Ani_Prop_FleurCredit_03
-70360140: SceneObj_Level_Common_Property_Prop_TowerOperation_01
-70360141: SceneObj_Stages_Property_Prop_WhiteIceStormR120
-70360142: null
-70360143: SceneObj_Area_Common_Property_Ani_Flower_GlideChampBalloon_04
-70360144: SceneObj_Area_Common_Property_Ani_Flower_GlideChampBalloon_05
-70360145: SceneObj_Gear_Operator_Normal_Operator_TowerDefense
-70360146: SceneObj_Area_Md_Property_Prop_NoChestChallenge_01
-70360147: null
-70360148: null
-70360149: SceneObj_Stages_Property_Ani_Prop_OceanidSpecialBornBS_01
-70360150: SceneObj_Stages_Property_Ani_Prop_OceanidChest_01
-70360151: null
-70360152: SceneObj_Area_Md_Property_Ani_Prop_FleurFairFallGame_01
-70360153: SceneObj_Area_Md_Property_Ani_Prop_FleurFairGame_01
-70360154: SceneObj_Area_Ly_Property_Build_DahakaEntry_01
-70360155: SceneObj_Gear_Operator_MistTrial_Time_Operator
-70360156: SceneObj_Gear_Operator_MistTrial_Revive_Operator
-70360157: SceneObj_Gear_Operator_MistTrial_Attack_Operator
-70360158: SceneObj_Gear_Operator_MistTrial_Turbo_Operator
-70360159: SceneObj_Level_Common_Property_Prop_RunesParent_01
-70360160: SceneObj_Level_Common_Property_Prop_RunesChild_01
-70360161: SceneObj_Level_Common_Property_Prop_RunesChild_02
-70360162: SceneObj_Level_Common_Property_Prop_RunesChild_03
-70360163: SceneObj_Area_Common_Property_Ani_Prop_LaylineShard_01
-70360164: SceneObj_Level_Common_Property_Prop_RunesParent_02
-70360165: Ice_Boss_Region
-70360166: SceneObj_Area_Dq_Property_Prop_StealInteractPoint_01
-70360167: SceneObj_Area_Dq_Property_Build_WataStatue_01
-70360168: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360169: SceneObj_Area_Dq_Property_Ani_Build_PirateShoji_01
-70360170: SceneObj_Area_Dq_Property_Prop_HumanLever_01
-70360171: SceneObj_Area_Dq_Property_Prop_Bossplace_Water_01
-70360172: SceneObj_Area_Dq_Property_Prop_Bossplace_Plot_Water_01
-70360173: SceneObj_Area_Dq_Property_Ani_Prop_SRIwakura_01_Up
-70360174: SceneObj_Area_Dq_Property_Ani_Prop_SRIwakura_01_Down
-70360175: null
-70360176: SceneObj_Area_Dq_Property_Prop_SRShite_01
-70360177: SceneObj_Area_Dq_Property_Prop_SRShite_01
-70360178: SceneObj_Area_Dq_Property_Prop_SRShite_01
-70360179: SceneObj_Area_Dq_Property_Ani_Prop_PiratePanel_01
-70360180: SceneObj_Area_Dq_Property_Ani_Prop_PirateHelm_01
-70360181: SceneObj_Area_Dq_Property_Ani_Prop_PirateHelm_01
-70360182: SceneObj_Area_Dq_Property_Ani_Prop_PirateHelm_01
-70360183: SceneObj_Area_Dq_Property_Ani_Prop_PirateHelm_01
-70360184: SceneObj_Area_Dq_Property_Build_WataAltar_01
-70360185: SceneObj_Area_Dq_Property_Build_WataVessel_01
-70360186: SceneObj_Area_Dq_Property_Ani_Prop_RuinPlate_01
-70360187: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360188: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360189: SceneObj_Gear_Operator_Invisible_Operator_03
-70360272: SceneObj_Area_Common_Property_Prop_HaidaoChallenge_01
-70360273: civet_process_point
-70360274: civet_destination
-70360275: SceneObj_Area_Common_Property_Prop_SuitcaseApparatus_01
-70360276: civet_effect
-70360277: civet_start_point
-70360278: SceneObj_Area_Common_Property_Prop_SuitcaseApparatusScreen_01
-70360279: SceneObj_Other_BrokenFloor_FallAttack
-70360280: SceneObj_Other_ThunderArrow
-70360281: SceneObj_Other_ThunderArrowBullet
-70360282: SceneObj_Gear_Platform_EffectVersion
-70360283: SceneObj_Other_Suspender
-70360284: SceneObj_Other_SuspenderBullet
-70360285: SceneObj_Other_ThunderFloor
-70360286: SceneObj_Gear_Operator_Invisible_Operator
-70360287: SceneObj_Other_OneWayDoor
-70360288: SceneObj_Other_LiftLadder
-70360289: SceneObj_Other_ElementFloor
-70360290: SceneObj_Area_Dq_Property_Prop_CameraGadget_01
-70360291: SceneObj_Other_ThunderArrowTarget
-70360292: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360293: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360294: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360295: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360296: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360297: SceneObj_Area_Dq_Property_Ani_Build_SeaGodStatue_01
-70360298: SceneObj_Other_ElementFloor
-70360299: SceneObj_Other_ElementFloor
-70360300: SceneObj_Area_Dq_Property_Ani_Tree_ReginTree_01
-70360301: SceneObj_Area_Dq_Property_Ani_Prop_CircleEngine_01_Light
-70360302: SceneObj_Area_Dq_Property_Ani_Prop_CircleEngine_01_Gear
-70360303: SceneObj_Area_Dq_Property_Ani_Prop_CircleConsole_01
-70360304: SceneObj_Area_Dq_Property_Ani_Prop_EnergySource_01
-70360305: SceneObj_Area_Dq_Property_Ani_Prop_TuningFork_01
-70360306: SceneObj_Gear_Other_InvisibleUploader04
-70360307: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_A_01
-70360308: SceneObj_Area_Dq_Property_Ani_Tree_ReginTree_02
-70360309: SceneObj_Area_Dq_Property_Ani_Prop_TuningFork_02
-70360310: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_A_02
-70360311: SceneObj_Area_Dq_Property_Ani_Prop_AbyssalOperator_01
-70360312: SceneObj_Area_Dq_Property_Ani_Prop_AbyssalOperator_02
-70360313: SceneObj_Stages_Property_Ani_Prop_MimikSpecialBornBS_01
-70360314: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_B_01
-70360315: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_B_02
-70360316: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_C_01
-70360317: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_C_02
-70360318: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_D_01
-70360319: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_D_02
-70360320: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_E_01
-70360321: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_E_02
-70360322: SceneObj_Area_Dq_Property_Ani_Prop_TokoyoEnergySeal_F_01
-70360323: SceneObj_Area_Dq_Property_Ani_Tree_ReginTree_03
-70360324: SceneObj_Gear_Operator_Invisible_Operator_02
-70360325: SceneObj_Gear_Other_InvisibleUploader
-70360326: SceneObj_Gear_Other_InvisibleUploader
-70360327: SceneObj_Gear_Other_InvisibleUploader
-70360328: SceneObj_Gear_Other_InvisibleUploader
-70360329: SceneObj_Area_Dq_Property_Ani_Prop_TowerCore_01
-70360330: SceneObj_Area_Dq_Property_Prop_StoneOfMaditation_01
-70360331: SceneObj_Area_Dq_Property_Prop_StoneOfPhantom_01
-70360332: SceneObj_Area_Dq_Property_Prop_StoneOfSamsara_01
-70360333: SceneObj_Area_Dq_Property_Prop_ArrowHitBox_01
-70360334: SceneObj_Area_Dq_Property_Prop_MeleeHitBox_01
-70360335: SceneObj_Area_Dq_Property_Ani_Prop_LitWater_01
-70360336: SceneObj_Area_Dq_Property_Ani_Prop_AbyssalPalaceMap_01
-70360337: SceneObj_Area_Dq_Property_Ani_Prop_UrnOfShadow_01
-70360338: SceneObj_Area_Common_Property_Ani_Prop_ImmortalFireOnly_01
-70360339: SceneObj_Area_Dq_Property_Prop_InvisibleDeliver_01
-70360340: SceneObj_Area_Dq_Property_Ani_Prop_ArenaActive_01
-70360341: SceneObj_Area_Dq_Property_Ani_Prop_LitWater_02
-70360342: SceneObj_Area_Cyjy_Property_Prop_AbyssEnergyWrapper_01
-70360343: SceneObj_Area_Dq_Property_Ani_Prop_TowerCore_Fire_01
-70360344: SceneObj_Area_Md_Property_Ani_Flower_ElixirFlower_01_InvisibleUploader
-70360345: SceneObj_Gear_Other_InvisibleUploader04
-70360346: SceneObj_Gear_Other_InvisibleUploader04
-70360347: SceneObj_Area_Dq_Property_Ani_Prop_TargetPoint_01
-70360348: SceneObj_Area_Dq_Property_Ani_Prop_TargetGoal_01
-70360349: SceneObj_Gear_Other_InvisibleUploader04
+70360069: 轻策之藏 实体
+70360070: 轻策之藏怪物触发器
+70360071: 靖世九柱01
+70360072: 靖世九柱02
+70360073: 岩图腾 火 Max
+70360074: 岩图腾 冰 Max
+70360075: 岩图腾 雷 Max
+70360076: 幽灵膨膨果树
+70360077: 幽灵膨膨果子弹
+70360078: 幽灵膨膨果移动靶标
+70360079: 岩石门
+70360080: 无相石柱顶端特效（岩）
+70360081: 无相石柱顶端特效（风）
+70360082: 无相石柱顶端特效（雷）
+70360083: 区域平台特效（岩）
+70360084: 区域平台特效（风）
+70360085: 区域平台特效（雷）
+70360086: 靖世九柱03
+70360087: 镶嵌「追叙之石」
+70360088: 古石门
+70360089: 定标闪光特效
+70360090: 膨膨果子弹
+70360091: 膨膨果子弹
+70360092: 遗迹宝藏（屏蔽客机）
+70360093: 爆爆果移动平台
+70360094: 疾风微粒
+70360095: 脏脏果移动平台
+70360096: 飞鸟纹章
+70360097: 浮生石
+70360098: 历史正文
+70360099: 冰图腾 冰
+70360100: 移动镭射机关(公子线)
+70360101: 遗迹怪头部
+70360102: 雪堆
+70360103: 浮冰
+70360104: 冒险家信标
+70360105: 冰风暴R25
+70360106: 冰护罩
+70360107: 龙之挑战
+70360108: 冰立方
+70360109: 冰立方护罩
+70360110: 冰风暴R60
+70360111: 强冷气流
+70360112: 山顶冰块屏障
+70360113: 无相屏障
+70360114: 特殊冰柱
+70360115: 遗迹重机洞穴冰基座
+70360116: 山顶冰基座
+70360117: 交错洞穴冰基座
+70360118: 冰封印
+70360119: 龙的心脏
+70360120: 冰封印
+70360121: 冰风暴蓝色R120
+70360122: 开启
+70360123: 岩石门
+70360124: 山顶冰块屏障
+70360125: 开启挑战
+70360126: 开启挑战
+70360127: 龙血结晶创生器
+70360128: 龙之挑战
+70360129: 大世界隐形操作台（不禁客机）
+70360130: 漂流瓶
+70360131: 雪山云圈
+70360132: 坠落冰柱控制器
+70360133: 坠落冰锥bullet
+70360134: 坠落冰锥伤害器
+70360135: 雪山Streaming圈
+70360136: 体力球
+70360137: 普通积分球
+70360138: 高分积分球
+70360139: 终点积分球
+70360140: 塔防场景控制器特效
+70360141: 冰风暴白色R120
+70360142: 红白餐馆看板
+70360143: 爆爆果移动平台
+70360144: 脏脏果移动平台
+70360145: 塔防-机关操作台
+70360146: 大擂台机关
+70360147: 风花节移动平台
+70360148: 风花节移动平台空气墙
+70360149: 纯水精灵挑战活动机关
+70360150: 纯水精灵挑战隐藏领奖台
+70360151: 海灯节用NpcVolume
+70360152: 跳伞看板
+70360153: 射气球看板
+70360154: 若陀龙王地城入口特效
+70360155: 试玩活动地城操作台-时间
+70360156: 试玩活动地城操作台-复活
+70360157: 试玩活动地城操作台-攻击加成
+70360158: 试玩活动地城操作台-加速
+70360159: 试玩活动地城解密机关_父1
+70360160: 试玩活动地城解密机关_子1
+70360161: 试玩活动地城解密机关_子2
+70360162: 试玩活动地城解密机关_子3
+70360163: 地脉之果
+70360164: 试玩活动地城解密机关_父2
+70360165: 无相冰低温区域
+70360166: 拿取物资
+70360167: 海神尊像
+70360168: 海神雕像1
+70360169: 单向木制海盗船门
+70360170: 人类拉杆机关
+70360171: 无相石柱顶端特效（水）
+70360172: 区域平台特效（水）
+70360173: 磐座(上层)
+70360174: 磐座(下层)
+70360175: 磐座(已弃用)
+70360176: 纸垂2张
+70360177: 纸垂3张
+70360178: 纸垂4张
+70360179: 单向木制海盗盖板
+70360180: 舵（单大锚）
+70360181: 舵（大小锚）
+70360182: 舵（双大锚）
+70360183: 舵（双小锚）
+70360184: 海神祭坛
+70360185: 精血容器
+70360186: 一笔画石板
+70360187: 海神雕像2
+70360188: 海神雕像3
+70360272: 海岛 积分挑战机关
+70360273: 狸子过程点
+70360274: 狸子终点
+70360275: 神秘公文包
+70360276: 狸子特效
+70360277: 狸子战术点
+70360278: 神秘公文包 投屏
+70360279: 破碎地板
+70360280: 雷矢 陷阱
+70360281: 雷矢 子弹
+70360282: 特殊特效 移动平台  
+70360283: 悬吊 陷阱
+70360284: 悬吊 子弹
+70360285: 雷电地板
+70360286: 大世界隐形操作台（不显示客机按钮）
+70360287: 旋转门
+70360288: 升降梯子
+70360289: 元素地板
+70360290: 特殊镜头物件
+70360291: 雷矢 目标
+70360292: Rouge 普通房间操作台
+70360293: Rouge 高危房间操作台
+70360294: Rouge BOSS房间操作台
+70360295: Rouge 回复房间操作台
+70360296: Rouge 随机房间操作台
+70360297: Rouge 房间退出点
+70360298: Rouge 守护装置
+70360299: Rouge 隐形陷阱
+70360300: 鹤观 雷鸟栖木
+70360301: 昼夜转换机关（主塔光球）
+70360302: 昼夜转换机关（主塔机关）
+70360303: 昼夜转换机关（机关）
+70360304: 封能台座
+70360305: 震动机关（白天版）
+70360306: 供奉
+70360307: 常世封印 5*5（白天版）
+70360308: 鹤观 雷鸟栖木
+70360309: 震动机关（夜晚版）
+70360310: 常世封印 5*5（夜晚版）
+70360311: 昼夜操作台（白天版）
+70360312: 昼夜操作台（夜晚版）
+70360313: 巨大骗骗花挑战活动机关
+70360314: 常世封印 10*10（白天版）
+70360315: 常世封印 10*10（夜晚版）
+70360316: 常世封印 10*20（白天版）
+70360317: 常世封印 10*20（夜晚版）
+70360318: 常世封印 20*20（白天版）
+70360319: 常世封印 20*20（夜晚版）
+70360320: 常世封印 20*30（白天版）
+70360321: 常世封印 20*30（夜晚版）
+70360322: 常世封印 50*50*5（夜晚版）
+70360323: 鹤观 雷鸟栖木
+70360324: 大世界隐形操作台
+70360329: 封印岛高塔激活核心
+70360330: 冥想之石
+70360331: 追忆之石
+70360332: 轮回之石
+70360333: 远程空受击盒
+70360334: 近程空受击盒
+70360335: 发光水面（白天）
+70360336: 墙壁地图
+70360337: 常夜灵龛
+70360338: 不灭火种
+70360339: 隐形交付台[提交]
+70360340: Boss平台特效
+70360341: 发光水面（夜晚）
+70360343: 封印岛高塔激活核心 火苗
+70360344: 浇灌
+70360345: 浇灌
+70360346: 放置
+70360347: 玩法目标点
+70360348: 玩法目标终点
+70360349: 投入
 70360350: SceneObj_Area_Common_Property_Prop_NoteSlate_01
 70360351: SceneObj_Area_Common_Property_Prop_NoteSlate_02
 70360352: SceneObj_Area_Common_Property_Prop_NoteSlate_03
@@ -5978,11 +5739,11 @@
 70360362: SceneObj_Area_Dq_Property_Prop_CameraGadget_02
 70360364: SceneObj_Gear_Other_Compass_FarHint
 70360366: SceneObj_Area_Common_Property_Ani_Prop_AnimalSeelie_03
-70370001: SceneObj_Aster_PlayEntity_Esay
-70370002: SceneObj_Aster_PlayEntity_Normal
-70370003: SceneObj_Aster_PlayEntity_Hard
-70370004: SceneObj_Aster_PlayEntity_Single
-70370273: SceneObj_LostParadise_BoatGenerator
+70370001: 大陨石playentity
+70370002: 大陨石playentity
+70370003: 大陨石playentity
+70370004: 大陨石playentity
+70370273: 召船点
 70380001: 移动平台01
 70380002: 移动靶标
 70380003: 移动平台（森林风格）
@@ -6275,7 +6036,7 @@
 70590028: SceneObj_Gather_Small_Ore
 70590029: null
 70590030: SceneObj_Gather_Big
-70590031: SceneObj_Area_Ljxs_Property_Ani_Prop_Essence_01
+70590031: 绯红玉髓
 70590032: SceneObj_Area_Ljxs_Property_Prop_DropDulinsBlood_01
 70590033: null
 70590034: SceneObj_Area_Ljxs_Property_Ani_Prop_Essence_01
@@ -6285,28 +6046,29 @@
 70590038: SceneObj_Gather_Butterfly3
 70590039: SceneObj_Gather_Butterfly4
 70590040: SceneObj_Gather_Firefly2
-70590041: SceneObj_Gather_ElectricCrystal_Gather
-70590042: SceneObj_Area_Common_Property_Ani_Prop_MoonlitSigil_01
+70590041: 散失的雷神瞳
+70590042: 逐月符
 70590043: SceneObj_Area_Common_Property_Ani_Prop_MoonlitSigil_01
 70590044: SceneObj_Area_Dq_Property_Ani_Prop_RunesKey_01
 70590045: SceneObj_Area_Dq_Property_Ani_Prop_RunesKey_02
 70590046: SceneObj_Area_Dq_Property_Ani_Prop_RunesKey_03
 70590047: SceneObj_Area_Dq_Property_Ani_Prop_RunesKey_04
 70590048: SceneObj_Area_Dq_Property_Ani_Prop_RunesKey_05
-70590049: SceneObj_Area_Dq_Property_Ani_Prop_RuneContent_01
-70590050: SceneObj_Area_Dq_Property_Ani_Prop_RuneContent_02
-70590051: SceneObj_Area_Dq_Property_Ani_Prop_RuneContent_03
-70590052: SceneObj_Area_Dq_Property_Ani_Prop_RuneContent_04
-70590053: SceneObj_Area_Dq_Property_Ani_Prop_RuneContent_05
+70590049: 键纹
+70590050: 键纹1
+70590051: 键纹2
+70590052: 键纹3
+70590053: 键纹4
 70590054: SceneObj_Area_Dq_Property_Ani_Prop_RuneContent_Fly
 70590055: Default_Attract_CatchAnimal
 70590056: Default_Attract_CatchAnimal_Activity
-70590057: SceneObj_Area_Cyjy_Property_Ani_Prop_CelestiaSplinter_01
+70590057: 流明晶石
 70590058: SceneObj_Area_Dq_Property_Ani_Prop_RunesKey_CS_04
 70590059: SceneObj_Area_Dq_Property_Ani_Prop_RunesKey_CS_05
 70590060: SceneObj_Level_Common_Property_Prop_CityRotateAixs_01
 70590061: SceneObj_Gather_Big
 70590062: SceneObj_Gather_Big
+70590063: 散失的草神瞳
 70590064: SceneObj_Area_Common_Property_Ani_Prop_AnimalSeelie_02
 70590065: SceneObj_Area_Common_Property_Ani_Prop_AnimalSeelie_02
 70590066: SceneObj_Area_Common_Property_Ani_Prop_AnimalSeelie_02
@@ -7164,7 +6926,6 @@
 70710733: null
 70710734: SceneObj_Area_Cyjy_Property_Prop_PhatomRockWall_01
 70710735: SceneObj_Area_Cyjy_Property_Prop_PhatomRockWall_01
-70710736: null
 70710737: SceneObj_Quest_Cengyan2_Xiao_Element
 70710738: SceneObj_Area_Dq_Property_Ani_Prop_BBQSumire_01
 70710739: null
