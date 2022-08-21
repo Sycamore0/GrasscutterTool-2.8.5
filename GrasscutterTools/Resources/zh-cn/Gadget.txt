@@ -1826,11 +1826,11 @@
 41002008: Ayaka_YayoiKaeshi
 41003004: DandelionWind_1
 41003005: DandelionWind_2
-41005001: WindBreathe_Tornado
+41005001: 风主大招
 41005002: Player_Wind_Arashi
 41005003: Hogyoku_Base
 41005004: Hogyoku_Barrier
-41005005: RockTide
+41005005: 岩主大招
 41005006: RockTide_Barrier
 41005007: PlayerBoy_ExtraAttack_Wave
 41005008: Hogyoku_Bullet
@@ -1860,7 +1860,7 @@
 41015001: FrozenTrap
 41015002: FrozenTrap_GW
 41016001: Diluc_FireCross
-41021001: ArrowRainField
+41021001: 安柏大招
 41021002: 兔兔伯爵
 41021003: 兔兔伯爵(扔出来)
 41021004: 兔兔伯爵(扔出来)7M
@@ -2041,7 +2041,7 @@
 41041003: Mona_Attack03
 41041004: Mona_Attack04
 41041005: Mona_Phantom
-41041006: Mona_LiquidPhantom
+41041006: 莫娜E(持续存在)
 41041007: Mona_PhantomLastAttack
 41042001: Keqing_Bullet_Track
 41042002: Keqing_Bullet_Linear
