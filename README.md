@@ -1,4 +1,5 @@
 # 即将更新3.0.50（换个项目）不要问我怎么进游戏的
+[点击跳转](https://github.com/TeyvatL/GrasscutterTool-3.0.5)
 # GrasscutterTool-2.8.5
 > 原神2.8.5GC工具 v2.3.3
 > 可能是id最全的
